@@ -22,6 +22,9 @@ Academic search engine.
 
 
 ## LaTeX tools
+* [https://www.overleaf.com/latex/templates/](https://www.overleaf.com/latex/templates/)  
+Archive of useful LaTeX templates.
+
 * [https://arxiv2bibtex.org](https://arxiv2bibtex.org)  
 Retrieve arXiv paper information and generate BibTeX, BiBLaTeX, bibitem, HTML and
 Wiki entry.
