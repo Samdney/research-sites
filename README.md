@@ -16,6 +16,11 @@ Repository of ePrints in cryptology.
 Repository of ePrints in computational complexity. Electronic Colloquium on Computational Complexity. Under the auspices of the Computational Complexity Foundation (CCF).
 
 
+## Paper search
+* [https://scholar.google.de/](https://scholar.google.de/)  
+Academic search engine.
+
+
 ## LaTeX tools
 * [https://arxiv2bibtex.org](https://arxiv2bibtex.org)  
 Retrieve arXiv paper information and generate BibTeX, BiBLaTeX, bibitem, HTML and
