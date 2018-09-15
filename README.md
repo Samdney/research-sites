@@ -31,6 +31,9 @@ Open Privacy Research Society.
 * [https://www.mathematik.de/](https://www.mathematik.de/)  
 Deutsche Mathematiker-Vereinigung (DMV).  
 
+* [https://www.ams.org/](https://www.ams.org/)   
+American Mathematical Society (AMS).  
+
 
 ## LaTeX tools
 * [https://www.overleaf.com/latex/templates/](https://www.overleaf.com/latex/templates/)  
