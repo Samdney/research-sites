@@ -28,6 +28,9 @@ Women in Number Theory Community.
 * [https://openprivacy.ca/](https://openprivacy.ca/)  
 Open Privacy Research Society.
 
+* [https://www.mathematik.de/](https://www.mathematik.de/)  
+Deutsche Mathematiker-Vereinigung (DMV).  
+
 
 ## LaTeX tools
 * [https://www.overleaf.com/latex/templates/](https://www.overleaf.com/latex/templates/)  
