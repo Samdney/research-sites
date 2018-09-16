@@ -21,6 +21,11 @@ Repository of ePrints in computational complexity. Electronic Colloquium on Comp
 Academic search engine.
 
 
+## Classifications
+* [https://mathscinet.ams.org/msc/msc2010.html](https://mathscinet.ams.org/msc/msc2010.html)  
+2010 Mathematics Subject Classification
+
+
 ## Communities & Orgs  
 * [http://womeninnumbertheory.org/](http://womeninnumbertheory.org/)  
 Women in Number Theory Community.
