@@ -39,6 +39,10 @@ American Mathematical Society (AMS).
 * [https://www.overleaf.com/latex/templates/](https://www.overleaf.com/latex/templates/)  
 Archive of useful LaTeX templates.
 
+* [https://www.jabref.org/](https://www.jabref.org/)  
+[https://github.com/JabRef/jabref](https://github.com/JabRef/jabref)  
+Open source bibliography reference manager for managing BibTeX and biblatex.
+
 * [https://arxiv2bibtex.org](https://arxiv2bibtex.org)  
 Retrieve arXiv paper information and generate BibTeX, BiBLaTeX, bibitem, HTML and
 Wiki entry.
