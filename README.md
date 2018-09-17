@@ -26,6 +26,11 @@ Academic search engine.
 2010 Mathematics Subject Classification
 
 
+## Coding
+### Rust
+* [https://doc.rust-lang.org/rust-by-example/](https://doc.rust-lang.org/rust-by-example/)  
+Tutorial. Rust by Example.
+
 ## Communities & Orgs  
 * [http://womeninnumbertheory.org/](http://womeninnumbertheory.org/)  
 Women in Number Theory Community.
