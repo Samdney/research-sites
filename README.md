@@ -20,6 +20,9 @@ Repository of ePrints in computational complexity. Electronic Colloquium on Comp
 * [https://scholar.google.de/](https://scholar.google.de/)  
 Academic search engine.
 
+* [https://www.sciencedirect.com/](https://www.sciencedirect.com/)  
+Search for peer-reviewed journals, articles, book chapters and open access content.
+
 
 ## Classifications
 * [https://mathscinet.ams.org/msc/msc2010.html](https://mathscinet.ams.org/msc/msc2010.html)  
@@ -30,6 +33,7 @@ Academic search engine.
 ### Rust
 * [https://doc.rust-lang.org/rust-by-example/](https://doc.rust-lang.org/rust-by-example/)  
 Tutorial. Rust by Example.
+
 
 ## Communities & Orgs  
 * [http://womeninnumbertheory.org/](http://womeninnumbertheory.org/)  
