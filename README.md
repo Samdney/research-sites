@@ -24,7 +24,7 @@ Academic search engine.
 Search for peer-reviewed journals, articles, book chapters and open access content.
 
 * [http://citeseerx.ist.psu.edu/index](http://citeseerx.ist.psu.edu/index)  
-CiteSeerx is an evolving scientific literature digital library and search engine that has focused primarily on the literature in computer and information science.
+CiteSeerX is an evolving scientific literature digital library and search engine that has focused primarily on the literature in computer and information science.
 
 
 ## Classifications
