@@ -38,6 +38,11 @@ CiteSeerX is an evolving scientific literature digital library and search engine
 Tutorial. Rust by Example.
 
 
+## Challenges
+* [https://www.latticechallenge.org/](https://www.latticechallenge.org/)  
+Lattice challenges.
+
+
 ## Communities & Orgs  
 * [http://womeninnumbertheory.org/](http://womeninnumbertheory.org/)  
 Women in Number Theory Community.
