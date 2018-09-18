@@ -23,6 +23,9 @@ Academic search engine.
 * [https://www.sciencedirect.com/](https://www.sciencedirect.com/)  
 Search for peer-reviewed journals, articles, book chapters and open access content.
 
+* [http://citeseerx.ist.psu.edu/index](http://citeseerx.ist.psu.edu/index)  
+CiteSeerx is an evolving scientific literature digital library and search engine that has focused primarily on the literature in computer and information science.
+
 
 ## Classifications
 * [https://mathscinet.ams.org/msc/msc2010.html](https://mathscinet.ams.org/msc/msc2010.html)  
