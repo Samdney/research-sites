@@ -52,6 +52,19 @@ Event-driven networking engine in Python.
 Tutorial. Rust by Example.
 
 
+## LaTeX tools
+* [https://www.overleaf.com/latex/templates/](https://www.overleaf.com/latex/templates/)  
+Archive of useful LaTeX templates.
+
+* [https://www.jabref.org/](https://www.jabref.org/)  
+[https://github.com/JabRef/jabref](https://github.com/JabRef/jabref)  
+Open source bibliography reference manager for managing BibTeX and biblatex.
+
+* [https://arxiv2bibtex.org](https://arxiv2bibtex.org)  
+Retrieve arXiv paper information and generate BibTeX, BiBLaTeX, bibitem, HTML and
+Wiki entry.
+
+
 ## Challenges
 * [https://www.latticechallenge.org/](https://www.latticechallenge.org/)  
 Lattice challenges.
@@ -69,16 +82,3 @@ Deutsche Mathematiker-Vereinigung (DMV).
 
 * [https://www.ams.org/](https://www.ams.org/)   
 American Mathematical Society (AMS).  
-
-
-## LaTeX tools
-* [https://www.overleaf.com/latex/templates/](https://www.overleaf.com/latex/templates/)  
-Archive of useful LaTeX templates.
-
-* [https://www.jabref.org/](https://www.jabref.org/)  
-[https://github.com/JabRef/jabref](https://github.com/JabRef/jabref)  
-Open source bibliography reference manager for managing BibTeX and biblatex.
-
-* [https://arxiv2bibtex.org](https://arxiv2bibtex.org)  
-Retrieve arXiv paper information and generate BibTeX, BiBLaTeX, bibitem, HTML and
-Wiki entry.
