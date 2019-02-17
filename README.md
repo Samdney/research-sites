@@ -70,7 +70,10 @@ Lattice challenges.
 
 ## Funding
 * [https://www.opentech.fund/](https://www.opentech.fund/)  
-The Open Technology Fund (OTF) is a U.S. Government funded program at Radio Free Asia to support global Internet freedom technologies. 
+The Open Technology Fund (OTF) is a U.S. Government funded program at Radio Free Asia to support global Internet freedom technologies.
+
+* [https://nlnet.nl/](https://nlnet.nl/)  
+Supporting of organizations and people that contribute to an open information society. It funds those with ideas to fix the internet. Open to anyone.
 
 
 ## Communities & Orgs  
