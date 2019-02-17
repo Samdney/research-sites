@@ -76,6 +76,10 @@ The Open Technology Fund (OTF) is a U.S. Government funded program at Radio Free
 * [https://nlnet.nl/](https://nlnet.nl/)  
 Supporting of organizations and people that contribute to an open information society. It funds those with ideas to fix the internet. Open to anyone.
 
+### Guidelines
+* [https://guide.opentech.fund/](https://guide.opentech.fund/)  
+OTF Applicant Guidebook.
+
 
 ## Communities & Orgs  
 * [http://womeninnumbertheory.org/](http://womeninnumbertheory.org/)  
