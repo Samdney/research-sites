@@ -15,6 +15,9 @@ Repository of ePrints in cryptology.
 * [https://eccc.weizmann.ac.il/](https://eccc.weizmann.ac.il/)  
 Repository of ePrints in computational complexity. Electronic Colloquium on Computational Complexity. Under the auspices of the Computational Complexity Foundation (CCF).
 
+* [https://censorbib.nymity.ch/](https://censorbib.nymity.ch/)  
+Selected Research Papers in Internet Censorship.
+
 
 ## Paper search
 * [https://scholar.google.de/](https://scholar.google.de/)  
@@ -30,11 +33,6 @@ CiteSeerX is an evolving scientific literature digital library and search engine
 ## Classifications
 * [https://mathscinet.ams.org/msc/msc2010.html](https://mathscinet.ams.org/msc/msc2010.html)  
 2010 Mathematics Subject Classification.
-
-
-## Censorship  
-* [https://censorbib.nymity.ch/](https://censorbib.nymity.ch/)  
-Selected Research Papers in Internet Censorship.
 
 
 ## Pluggable Transports  
