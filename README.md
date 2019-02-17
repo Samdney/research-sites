@@ -15,6 +15,9 @@ Repository of ePrints in cryptology.
 * [https://eccc.weizmann.ac.il/](https://eccc.weizmann.ac.il/)  
 Repository of ePrints in computational complexity. Electronic Colloquium on Computational Complexity. Under the auspices of the Computational Complexity Foundation (CCF).
 
+* [https://www.freehaven.net/anonbib/](https://www.freehaven.net/anonbib/)  
+Selected Papers in Anonymity.
+
 * [https://censorbib.nymity.ch/](https://censorbib.nymity.ch/)  
 Selected Research Papers in Internet Censorship.
 
