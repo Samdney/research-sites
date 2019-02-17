@@ -68,6 +68,11 @@ Wiki entry.
 Lattice challenges.
 
 
+## Funding
+* [https://www.opentech.fund/](https://www.opentech.fund/)  
+The Open Technology Fund (OTF) is a U.S. Government funded program at Radio Free Asia to support global Internet freedom technologies. 
+
+
 ## Communities & Orgs  
 * [http://womeninnumbertheory.org/](http://womeninnumbertheory.org/)  
 Women in Number Theory Community.
